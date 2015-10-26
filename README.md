@@ -41,10 +41,10 @@ kazuaking
 
 ## 環境
 
-OS: Windows7
-IDE: eclipse (出来れば)
-ソース管理: Git
-ソース管理ツール: SourceTree
+- OS: Windows7
+- IDE: eclipse (出来れば)
+- ソース管理: Git
+- ソース管理ツール: SourceTree
 
 ## 内容:
 
