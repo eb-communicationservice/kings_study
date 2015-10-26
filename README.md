@@ -38,6 +38,14 @@ kazuaking
 - DB(SQL)
 - 標準的な開発をとりまく環境
 
+
+## 環境
+
+OS: Windows7
+IDE: eclipse (出来れば)
+ソース管理: Git
+ソース管理ツール: SourceTree
+
 ## 内容:
 
 ### Step1:
